@@ -58,13 +58,7 @@ This Power BI project is inspired by the [Codebasics Power BI course](https://ww
 - Insightful visual storytelling
 - Structured problem-solving and planning
 
----
 
-## 📂 Files
-
-- 🔗 [P&L Report by Fiscal Year (PDF)](https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-- 🔗 [P&L Report by Months (PDF)](https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Months.pdf)
-- 🔗 [P&L Report by Markets (PDF)](https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 ---
 

@@ -9,7 +9,7 @@ This Power BI project is inspired by the [Codebasics Power BI course](https://ww
 *3.* Sales View-https://github.com/prachikarsrung/powerbi/blob/main/Sales%20View.png
 *4.* Marketing View-https://github.com/prachikarsrung/powerbi/blob/main/Marketing%20View.png
 *5.* Supply chain View-https://github.com/prachikarsrung/powerbi/blob/main/Supply%20chain%20view.png
-*6.* Executive View-
+*6.* Executive View-https://github.com/prachikarsrung/powerbi/blob/main/Supply%20chain%20view.png
 
 
 

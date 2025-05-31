@@ -4,8 +4,7 @@
 
 This Power BI project is inspired by the [Codebasics Power BI course](https://www.codebasics.io/) and serves as a practical case study in transforming raw sales data into interactive, insight-driven dashboards for an e-commerce business.
 
-🔗 **Watch Demo Video:** [`BUSINESS_INSIGHTS-360.mp4`](./BUSINESS_INSIGHTS-360.mp4)
-
+**1** Home Page 
 ---
 
 ## 🎯 Objectives

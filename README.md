@@ -5,7 +5,7 @@
 This Power BI project is inspired by the [Codebasics Power BI course](https://www.codebasics.io/) and serves as a practical case study in transforming raw sales data into interactive, insight-driven dashboards for an e-commerce business.
 
 *1.* Home Page -https://github.com/prachikarsrung/powerbi/blob/main/Home%20Page.png
-*2.* Finance View-
+*2.* Finance View-https://github.com/prachikarsrung/powerbi/blob/main/Finance%20view.png
 *3.* Sales View-
 *4.* Marketing View-
 *5.* Supply chain View-

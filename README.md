@@ -1,29 +1,73 @@
-#P & L Report 
-## Finance Report :
+# 📊 BUSINESS INSIGHTS 360 – Power BI Dashboard
 
-- **Project objective:** 
+## 📁 Project Overview
 
-    **1.**Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf_ & _[Months]https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Months.pdf
-  
-   **2.** Profit and Loss (P&L) reports by _[Markets]https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Markets.pdf
+This Power BI project is inspired by the [Codebasics Power BI course](https://www.codebasics.io/) and serves as a practical case study in transforming raw sales data into interactive, insight-driven dashboards for an e-commerce business.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+🔗 **Watch Demo Video:** [`BUSINESS_INSIGHTS-360.mp4`](./BUSINESS_INSIGHTS-360.mp4)
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+---
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+## 🎯 Objectives
 
+- Analyze **regional sales**, **top-performing categories**, and **overall profit trends**
+- Track key KPIs such as **Revenue**, **COGS**, **Profit Margins**, **YoY Growth**, and **Discount Rates**
+- Deliver meaningful insights through **visual storytelling**
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+---
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+## 📈 Dashboard Highlights
+
+- Fully interactive filters for **region**, **category**, **time period**, and **market**
+- KPI cards, line charts, bar graphs, and matrix visuals that simplify complex data
+- Designed to support informed decision-making with clean, simple visuals
+
+---
+
+## 🔧 Tools & Tech Stack
+
+- **Power BI Desktop**
+- **SQL** – Querying source data
+- **DAX** – Calculated measures & KPIs
+- **Power Query (M Language)** – Data transformation
+- **Excel** – Data validation & modeling support
+
+---
+
+## 💼 Business Concepts Covered
+
+- Gross Margin %, Net Profit, COGS, YTD metrics
+- Customer performance benchmarking
+- Product analysis based on YoY growth and discount trends
+- Pricing model evaluations and invoice deductions
+
+---
+
+## 🧠 Skills Demonstrated
+
+### ✅ Technical Skills
+- ETL process using Power Query
+- Creating calculated columns and dynamic measures with DAX
+- Smart data modeling and relationship mapping
+- Bookmarking, buttons, and conditional formatting for interactivity
+- Dashboard publishing and gateway auto-refresh setup
+
+### 💡 Soft Skills
+- Business understanding of sales and finance metrics
+- Empathetic, user-focused dashboard design
+- Insightful visual storytelling
+- Structured problem-solving and planning
+
+---
+
+## 📂 Files
+
+- 🔗 [P&L Report by Fiscal Year (PDF)](https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+- 🔗 [P&L Report by Months (PDF)](https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Months.pdf)
+- 🔗 [P&L Report by Markets (PDF)](https://github.com/prachikarsrung/excel-course/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+
+---
+
+## 🚀 About
+
+This project was built as part of my learning journey in Data Analytics using Power BI. It showcases my ability to translate business requirements into actionable dashboards that empower users with data-driven decisions.
